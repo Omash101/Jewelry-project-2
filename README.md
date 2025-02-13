@@ -1,5 +1,7 @@
 # Jewelry-project-2
 # Gemineye Pricing Optimization Analysis
+![image](https://github.com/user-attachments/assets/bf3a5711-0619-4138-a7e1-c7957630c182)
+
 
 ##  Project Overview
 This repository contains an in-depth analysis of **pricing optimization for Gemineye**, a luxury jewelry retailer. The goal of this project is to **improve pricing efficiency** by addressing:
