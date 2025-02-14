@@ -62,7 +62,7 @@ Because the Regression model's prediction are constantly low or inaccurate, mean
 - CatBoostRegressor perfromed better than the other models based of its RMSE score.The performance is quite low meaning there is still large errors
 - The predicted values of all the models are significantly deviating from the actual values. Meaning the models are making large errors leading to poor prediction.
 - By segmenting the data into meaningful groups, you can train separate models for each segment, reducing prediction errors.
-- The models demonstrated low accuracy across the board, CatBoostRegression model being the best model with R2 of 32% followed XGBRegressor of 23% . Linear Regression performed the least with Train  r2 of 6.9% and RMSE of 430 and359-test![image](https://github.com/user-attachments/assets/e630406d-78ca-49c5-b769-9bec38e45d88)
+- The models demonstrated low accuracy across the board, CatBoostRegression model being the best model with R2 of 32% followed XGBRegressor of 23% . Linear Regression performed the least with Train  r2 of 6.9% and RMSE of 430 .
 
 
 ## Segmentation insight
@@ -87,7 +87,14 @@ Because the Regression model's prediction are constantly low or inaccurate, mean
 - Total Orders: 17817 - Adjust inventory and stock availability accordingly.
 
 ## Recommendation
-
+1. Platinum, which is a high-end product, has little or no transaction; therefore, there is a need for market push for premium buyers.
+2. Optimize Product Pricing Using Demand Elasticity
+- For inelastic products (high-end jewelry) → Increase prices to maximize revenue.
+- For elastic products (mass-market items) → Use discounts & promotions strategically.
+3. Implement tiered pricing models based on customer segments.
+4. Offer exclusive experiences & loyalty programs for high-end buyers.
+5. Optimize discounts & promotions for budget-conscious segments.
+   
 
 
 
