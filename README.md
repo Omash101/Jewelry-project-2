@@ -64,22 +64,22 @@ Because the Regression model's prediction are constantly low or inaccurate, mean
 - By segmenting the data into meaningful groups, you can train separate models for each segment, reducing prediction errors.
 
 ## Segmentation insight
-- Cluster 0:
+## Cluster 0:
 - Price-sensitive customers: Offer discounts and bundled deals.
 - Occasional buyers: Engage with email marketing and seasonal promotions.
 - Total Orders: 71269 - Adjust inventory and stock availability accordingly.
   
-- Cluster 1:
+## Cluster 1:
 - High-spending customers: Consider premium offers and personalized promotions.
 - Occasional buyers: Engage with email marketing and seasonal promotions.
 - Total Orders: 1466 - Adjust inventory and stock availability accordingly.
 
-  Cluster 2:
+## Cluster 2:
 - High-spending customers: Consider premium offers and personalized promotions.
 - Occasional buyers: Engage with email marketing and seasonal promotions.
 - Total Orders: 6 - Adjust inventory and stock availability accordingly.
 
-Cluster 3:
+## Cluster 3:
 - Price-sensitive customers: Offer discounts and bundled deals.
 - Occasional buyers: Engage with email marketing and seasonal promotions.
 - Total Orders: 17817 - Adjust inventory and stock availability accordingly.
