@@ -57,4 +57,33 @@ To assess the performance of the machine learning model, the following evaluatio
 ## Segmentation Analysis
 Because the Regression model's prediction are constantly low or inaccurate, meaning the model is not capturing important variations in the data. The use of Segmentation analysis helps to improve predictive accuracy by identifying subgroups within the datasets that behave differently.
 
+## Key Insight
+- CatBoostRegressor is the best model as it supports categorical features and works well with missing data
+- CatBoostRegressor perfromed better than the other models based of its RMSE score.The performance is quite low meaning there is still large errors
+- The predicted values of all the models are significantly deviating from the actual values. Meaning the models are making large errors leading to poor prediction.
+- By segmenting the data into meaningful groups, you can train separate models for each segment, reducing prediction errors.
+
+## Segmentation insight
+- Cluster 0:
+- Price-sensitive customers: Offer discounts and bundled deals.
+- Occasional buyers: Engage with email marketing and seasonal promotions.
+- Total Orders: 71269 - Adjust inventory and stock availability accordingly.
+  
+- Cluster 1:
+- High-spending customers: Consider premium offers and personalized promotions.
+- Occasional buyers: Engage with email marketing and seasonal promotions.
+- Total Orders: 1466 - Adjust inventory and stock availability accordingly.
+
+  Cluster 2:
+- High-spending customers: Consider premium offers and personalized promotions.
+- Occasional buyers: Engage with email marketing and seasonal promotions.
+- Total Orders: 6 - Adjust inventory and stock availability accordingly.
+
+Cluster 3:
+- Price-sensitive customers: Offer discounts and bundled deals.
+- Occasional buyers: Engage with email marketing and seasonal promotions.
+- Total Orders: 17817 - Adjust inventory and stock availability accordingly.
+
+
+
 
