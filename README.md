@@ -50,9 +50,9 @@ The Regression algorithms was preferred over the Classifier algorithms because i
 
 ## Model Evaluation
 To assess the performance of the machine learning model, the following evaluation metrics were used.
--**R2:** It evaluates how well a regression model fits the data. It indicates the proportion of the variance in the dependent variable that is explained by the independent variables.
+- **R2:** It evaluates how well a regression model fits the data. It indicates the proportion of the variance in the dependent variable that is explained by the independent variables.
 
--**RMSE:** used metric for evaluating the accuracy of a regression model. It measures how far the predicted values are from the actual values.
+- **RMSE:** used metric for evaluating the accuracy of a regression model. It measures how far the predicted values are from the actual values.
 
 ## Segmentation Analysis
 Because the Regression model's prediction are constantly low or inaccurate, meaning the model is not capturing important variations in the data. The use of Segmentation analysis helps to improve predictive accuracy by identifying subgroups within the datasets that behave differently.
