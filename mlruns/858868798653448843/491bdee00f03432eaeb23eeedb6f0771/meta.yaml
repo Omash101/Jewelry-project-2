@@ -1,0 +1,15 @@
+artifact_uri: file:///home/omas/jewelry-project-2/mlruns/858868798653448843/491bdee00f03432eaeb23eeedb6f0771/artifacts
+end_time: 1740213142114
+entry_point_name: ''
+experiment_id: '858868798653448843'
+lifecycle_stage: active
+run_id: 491bdee00f03432eaeb23eeedb6f0771
+run_name: CatBoost
+run_uuid: 491bdee00f03432eaeb23eeedb6f0771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740213103162
+status: 3
+tags: []
+user_id: omas
